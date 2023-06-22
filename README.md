@@ -10,4 +10,4 @@ The layout of the timer is not adaptive.
 To work correctly, you need to make changes to the current style sheet file and to the styles of your project.
 
 Author: [Moonzaki](https://moonzaki.ru/)  
-
+License: [MIT](https://github.com/moonzaki/reverse-timer/blob/a37eeccbdafbf9fc9e812778a64c069a3562a0b2/LICENSE.md)
